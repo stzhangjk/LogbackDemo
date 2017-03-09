@@ -11,6 +11,7 @@
     <modules>
         <module>001-HelloWorld</module>
         <module>002-StatusPrinter</module>
+        <module>003-InheritLevel</module>
     </modules>
 
     <build>
